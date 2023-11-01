@@ -1,0 +1,25 @@
+Git commands:
+
+mkdir - directory/folder
+cd - change directory
+cd .. - go to previous directory
+ls - list directory
+clear - clean terminal
+echo - print text
+out(>) - output content
+nano - terminal text editor
+cat - displays the text in the file
+
+------
+
+git init (one time)
+
+git add file1.txt
+
+git commit -m "file added"
+
+git branch -M main
+
+git remote add origin http://... .git
+
+git remote set-url origin https://personal-token@github-link
