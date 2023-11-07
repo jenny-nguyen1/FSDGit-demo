@@ -23,3 +23,8 @@ git branch -M main
 git remote add origin http://... .git
 
 git remote set-url origin https://personal-token@github-link
+
+---------
+
+git clone http://...........git
+
